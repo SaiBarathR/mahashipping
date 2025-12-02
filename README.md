@@ -1,7 +1,3 @@
-Live Site link: https://mahashipping.netlify.app/
-
-Back Up Site Link: https://mahashipping.free.nf/
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
